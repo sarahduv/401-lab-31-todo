@@ -6,6 +6,9 @@
 ### Deployed using AWS Amplify
 - https://master.d24gl4599f877.amplifyapp.com/
 
+### Deployed using Netlify
+- https://keen-sammet-460767.netlify.com/
+
 
 ![uml](https://github.com/sarahduv/401-lab-31-todo/blob/master/assets/iamge.JPG?raw=true)
 
