@@ -1,6 +1,7 @@
 {
   "name": "class-31-starter-code-todo",
   "version": "1.0.0",
+  "homepage": "/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -42,6 +43,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sarahduv/401-lab-31-todo/issues"
-  },
-  "homepage": "https://github.com/sarahduv/401-lab-31-todo#readme"
+  }
 }
